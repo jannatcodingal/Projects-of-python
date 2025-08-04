@@ -1,7 +1,7 @@
 from tkinter import Tk  # noqa: F403
 from random import randint  # noqa: F403
 from tkinter import ttk, Label, Button, PhotoImage
-from PIL import Image, ImageTk  # Add this import for image handling
+from PIL import Image, ImageTk
 root = Tk()
 root.title("Rock Paper Scissors Game! ")
 root.geometry("400x400")
